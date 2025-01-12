@@ -1,0 +1,5 @@
+equipmets 
+bat 
+ball
+stumps
+etc.
